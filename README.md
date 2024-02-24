@@ -29,5 +29,5 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-This project is deployed using GitHub Pages. You can view it live at []().
+This project is deployed using GitHub Pages. You can view it live at [here](https://inakigopar.github.io/My-Portfolio/).
 
