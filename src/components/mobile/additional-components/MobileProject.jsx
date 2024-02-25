@@ -13,7 +13,7 @@ function MobileProject({img, description, projectLink}) {
     }
 
     return(
-        <article className="project">
+        <div className="project">
             <figure className= 'mobile-image-project'>
                 <img src={img} alt="image project" />
             </figure>
@@ -30,7 +30,7 @@ function MobileProject({img, description, projectLink}) {
             <div className={`${seeDescription ? 'project-description' : 'hidden'}`}>
                 {description}
             </div>
-        </article>
+        </div>
     )
 }
 

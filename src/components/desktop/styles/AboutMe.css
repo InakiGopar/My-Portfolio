@@ -32,5 +32,13 @@
 .cv {
     display: flex;
     justify-content: center;
-    margin-top: 1.2em;
+    margin-top: 1.5em;
+}
+
+.cv .desktop-button {
+    border: rgb(0, 0, 0) 0.0rem solid;
+}
+
+.cv .desktop-button:hover {
+    scale: 1;
 }

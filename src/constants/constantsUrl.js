@@ -4,4 +4,4 @@ export const PROJECTLINK3 = 'https://github.com/InakiGopar/app-fullstack-php';
 export const PROJECTLINK4 = 'https://github.com/InakiGopar/api-restful-php';
 export const EMAILURL = 'mailto:tatigop09@gmail.com?subject=Contactame&body=Contactame';
 export const LINKEDINURL = 'https://www.linkedin.com/in/i%C3%B1aki-gopar-45644229a/';
-export const CVURL = 'src/cv.pdf';
+export const CVURL = 'https://drive.google.com/file/d/1Y7ltK2jdCjlEfYsDpyJTXNp-ghDa0cz9/view?usp=drive_link';

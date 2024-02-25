@@ -4,7 +4,7 @@ function Nav() {
     return(
         <header className='desktop-header'>
             <div className='desktop-name'>
-                <h1>Iñaki gopar</h1>
+                <h1>Iñaki Gopar</h1>
             </div>
             <nav className='desktop-nav'>
                 <ul>

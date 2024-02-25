@@ -3,17 +3,16 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    background-color: var(--button-background-color);
-    border: rgb(0, 0, 0) 0.2rem solid;
+    background-color: var(--third-color);
+    border: rgb(0, 0, 0) 0.1rem solid;
+    border-color: var(--second-color);
     border-radius: 2em;
-    border-color: var(--button-color);
     transition: all .35s;
 }
 
 .desktop-button:hover {
-    background-color: var(--hover-background-color);
+    scale: 1.1;
     border-color: var(--hover-color);
-    scale: 1.2;
 }
 
 .desktop-button a {
@@ -21,9 +20,9 @@
     text-decoration: none;
     align-items: center;
     justify-content: center;
+    color: var(--second-color);
     font-size: 1.5em;
     font-weight: bold;
-    color: var(--second-color);
     padding: 2%;
 }
 

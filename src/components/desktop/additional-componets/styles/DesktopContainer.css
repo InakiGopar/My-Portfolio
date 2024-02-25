@@ -7,7 +7,7 @@
     margin-top: 3em;
     margin-right: 1.5em;
     margin-bottom: 1.5em;
-    border-radius: 6em;
+    border-radius: 1em;
     height: 400px;
     width: 400px;
 }
@@ -20,7 +20,7 @@
     width:min-content;
     font-size: 1em;
     padding: 6%;
-    border-radius: 6em;
+    border-radius: 1em;
     background-color: var(--third-color);
     color: var(--second-color);
 }
@@ -30,7 +30,7 @@
     flex-direction: column;
     align-items: center;
     flex-wrap: wrap;
-    width: 20vw;
+    width: 300px;
 }
 
 .desktop-container ul li {

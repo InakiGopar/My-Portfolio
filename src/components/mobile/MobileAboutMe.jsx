@@ -17,7 +17,7 @@ function MobileAboutMe() {
                 buttonLinkText= 'Descargar Cv'
                 icon= {CVICON}
             />
-            <MobileContainer title= 'Acerca de mi'>
+            <MobileContainer title= 'Sobre mi'>
                 <AboutMeText/>
             </MobileContainer>
         </section>

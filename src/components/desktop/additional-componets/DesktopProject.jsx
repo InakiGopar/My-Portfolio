@@ -4,7 +4,7 @@ import DesktopButtonLink from '../buttons/DesktopButtonLink';
 
 function DesktopProject( {img , projectLink , description} ) {
     return(
-        <article>
+        <div>
             <figure className='desktop-project-img'>
                 <img src={img} alt="project-image" />
             </figure>
@@ -16,7 +16,7 @@ function DesktopProject( {img , projectLink , description} ) {
                     icon= {GITHUBICON}
                 />
             </div>
-        </article>
+        </div>
         
     )
 }

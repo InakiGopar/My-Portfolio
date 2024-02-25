@@ -15,7 +15,7 @@ function MobileNav() {
         <header className="mobile-header">
             <div className="top">
                 <div className="name">
-                    <h1>Iñaki gopar</h1>
+                    <h1>Iñaki Gopar</h1>
                 </div>
                 <div className="toggle-button">
                     <figure className='hamburger-icon' onClick={handleToggleMenu}>
