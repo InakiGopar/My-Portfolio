@@ -37,6 +37,11 @@
 
 .cv .desktop-button {
     border: rgb(0, 0, 0) 0.0rem solid;
+    padding: 6px;
+}
+
+.cv .desktop-button a {
+    font-size: 1.5em;
 }
 
 .cv .desktop-button:hover {
