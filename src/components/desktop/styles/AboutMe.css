@@ -36,12 +36,13 @@
 }
 
 .cv .desktop-button {
-    border: rgb(0, 0, 0) 0.0rem solid;
-    padding: 6px;
+    border-radius: 3em;
+    border: rgb(176, 143, 130) 0.2rem solid;
+    padding: 4px;
 }
 
 .cv .desktop-button a {
-    font-size: 1.5em;
+    font-size: 1.8em;
 }
 
 .cv .desktop-button:hover {
