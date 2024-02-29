@@ -47,6 +47,10 @@
     font-weight: bolder;
 }
 
+.soft-skills {
+    margin-right: 7px;
+}
+
 @media screen and (min-width: 700px) {
     .my-avatar {
         height: 350px;
