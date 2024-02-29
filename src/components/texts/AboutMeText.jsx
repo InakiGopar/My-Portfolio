@@ -14,9 +14,9 @@ function AboutMeText() {
                 Soy una persona perseverante, comprometida y curiosa. Sigo la filosofía de <span>2+2</span>:
                 pequeños pasos todos los días para lograr grandes metas en el futuro.
                 Esta mentalidad me ha llevado a adoptar la programación como un hábito diario,
-                dedicando tiempo a <span className="soft-skills">investigar</span>
-                <span className="soft-skills">practicar</span>
-                y <span className="soft-skills">desarrollar</span> mis habilidades constantemente.
+                dedicando tiempo a <span className="soft-skills">Investigar</span>
+                <span className="soft-skills">Practicar</span>
+                y <span className="soft-skills">Desarrollar</span> mis habilidades constantemente.
             </p>
         </>
     )

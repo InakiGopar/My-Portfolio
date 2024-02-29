@@ -11,6 +11,7 @@
 
 .mobile-image-project {
     display: flex;
+    height: 200px;
 }
 
 .mobile-image-project img {
