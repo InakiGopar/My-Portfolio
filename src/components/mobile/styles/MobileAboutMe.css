@@ -54,7 +54,18 @@
     }
 
     .about-me-mobile button {
-        font-size: 1em;
+        padding: 4px;
+        font-size: 1.4em;
+        height: 80px;
+        width: 170px;
         margin-top: 52px;
+    }
+
+    .about-me-mobile button a {
+        display: flex;
+        text-decoration: none;
+        align-items: center;
+        justify-content: center;
+        padding: 2%;
     }
 }

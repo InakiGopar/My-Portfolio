@@ -25,5 +25,10 @@
 }
 
 .projects-container article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 380px;
     padding-bottom: 2%;
 }

@@ -11,9 +11,12 @@ function AboutMeText() {
                 y descubrir nuevas tecnologías como ReactJS, NodeJS y ExpressJS.
             </p>
             <p>
-                Soy una persona perseverante, comprometida y curiosa. Sigo la filosofía de <span>2+2</span>: pequeños pasos todos los días para lograr grandes metas en el futuro.
+                Soy una persona perseverante, comprometida y curiosa. Sigo la filosofía de <span>2+2</span>:
+                pequeños pasos todos los días para lograr grandes metas en el futuro.
                 Esta mentalidad me ha llevado a adoptar la programación como un hábito diario,
-                dedicando tiempo a <span>investigar</span>, <span>practicar</span> y <span>desarrollar</span> mis habilidades constantemente.
+                dedicando tiempo a <span className="soft-skills">investigar</span>
+                <span className="soft-skills">practicar</span>
+                y <span className="soft-skills">desarrollar</span> mis habilidades constantemente.
             </p>
         </>
     )

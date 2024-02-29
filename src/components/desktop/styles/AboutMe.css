@@ -29,6 +29,11 @@
     color: var(--third-color);
 }
 
+.desktop-text-about-me .soft-skills {
+    font-size: 1.2em;
+    margin-right: 10px;
+}
+
 .cv {
     display: flex;
     justify-content: center;
